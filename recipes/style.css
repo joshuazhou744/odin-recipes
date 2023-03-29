@@ -1,0 +1,33 @@
+img {
+    height: auto;
+    width: 300px;
+}
+
+body {
+    background-color:bisque;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.description {
+    color: maroon;
+}
+
+.ingredients {
+    color: blueviolet;
+}
+
+.instructions {
+    color: darkolivegreen;
+}
+
+ol {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+ul {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
